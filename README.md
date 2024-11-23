@@ -1,5 +1,3 @@
-<div style="display: flex">
-  <div style="flex: 50%;">
 #### My Interests
 
 * Interpreter design and implementation
@@ -15,9 +13,4 @@
 * Linux
 * Python
 * Racket
-</div>
-<div style="flex: 50%;">
-  test
-</div>
 
-</div>
