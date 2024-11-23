@@ -1,5 +1,5 @@
 <table>
-  <tr><td>
+  <tr style="border:none"><td style="border:none">
 
 #### My Interests
 
