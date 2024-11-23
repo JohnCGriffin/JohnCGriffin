@@ -18,7 +18,7 @@
 * Racket
 
 </td>
-<td style="border:none">
+<td border=0>
   test
 </td>
 </tr>
