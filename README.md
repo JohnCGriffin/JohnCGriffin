@@ -1,16 +1,17 @@
 
-#### Experienced technologist with interests in
+#### My Interests
 
 * Interpreter design and implementation
 * Investment Analysis
 * Languages
 
-#### What's in my toolbox
+#### My Toolbox
 
 * Racket
 * Golang
 * Python
 * C++
+* HTML/CSS
 * Linux
 * AWS
-* HTMX
+
