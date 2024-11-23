@@ -1,3 +1,5 @@
+<table>
+  <tr><td>
 
 #### My Interests
 
@@ -14,3 +16,10 @@
 * Linux
 * Python
 * Racket
+
+</td>
+<td>
+  test
+</td>
+</tr>
+</table>
