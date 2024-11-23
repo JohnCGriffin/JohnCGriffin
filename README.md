@@ -7,11 +7,10 @@
 
 #### My Toolbox
 
-* Racket
-* Golang
-* Python
+* AWS
 * C++
+* Golang
 * HTML/CSS
 * Linux
-* AWS
-
+* Python
+* Racket
