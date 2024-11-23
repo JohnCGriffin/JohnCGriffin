@@ -1,6 +1,5 @@
-<table style="border:none">
-  <tr style="border:none"><td style="border:none">
-
+<div style="display: flex">
+  <div style="flex: 50%;">
 #### My Interests
 
 * Interpreter design and implementation
@@ -16,10 +15,9 @@
 * Linux
 * Python
 * Racket
-
-</td>
-<td border=0>
+</div>
+<div style="flex: 50%;">
   test
-</td>
-</tr>
-</table>
+</div>
+
+</div>
