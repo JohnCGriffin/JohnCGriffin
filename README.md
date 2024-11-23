@@ -1,4 +1,4 @@
-<table>
+<table style="border:none">
   <tr style="border:none"><td style="border:none">
 
 #### My Interests
@@ -18,7 +18,7 @@
 * Racket
 
 </td>
-<td>
+<td style="border:none">
   test
 </td>
 </tr>
