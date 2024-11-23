@@ -2,7 +2,7 @@
 #### My Interests
 
 * Interpreter design and implementation
-* Investment Analysis
+* Investment analysis
 * Languages
 
 #### My Toolbox
