@@ -1,4 +1,4 @@
-#### My Interests
+#### My Technical Interests
 
 * Interpreter design and implementation
 * Investment analysis
